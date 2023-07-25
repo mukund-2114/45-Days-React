@@ -1,0 +1,75 @@
+frontend : structure and designing of website
+Ex. Html css,bootstrap,Javascript,Tailwind Css, React, Angular, Material UI, Chakra UI,Django
+
+backend : functionality or interactive
+Ex: php, python,nodeJs, laravel,java
+
+database: store data for the website
+Ex. MYSQl, firebase, mongodb
+
+Mysql   :   structured query language
+mongodb:  not structured
+
+Static website vs dynamic website
+
+static: content does not change
+dynamic: can change
+
+html css: can only make static website
+
+HTML (Hypertext Markup Language)
+for website structure
+
+hypertext: text within text
+markup language:  for formatted text
+
+CSS (Cascading style sheet)
+for styling
+
+Javascript:
+interaction
+
+HTML
+
+head:
+	title,script,style,link,meta
+
+tag vs element
+element: starting tag - content -closing tag
+heading tag:h1-h6
+paragraph p,
+pre
+
+block element vs inline element
+
+attribute: written inside starting tag
+
+span: to style a specific part of the text
+
+list types:
+	ordered list:
+	unordered list:
+	descriptive list:
+
+
+css styling
+
+inline:  1
+internal:2  
+external: 3
+
+selector:
+	id (#) unique  1
+	class (.) multiple 2
+	tag (tagname) 3
+	group (tagname, class,id) 4
+	universal (*) 5
+
+
+
+
+
+
+
+
+
