@@ -67,9 +67,23 @@ selector:
 
 
 
+github.com/mukund-2114
 
 
+text-properties:
+ 	font: Times New Roman
+	tranform:uppercase,lowercase,capitalize
+	decoration: overline,underline,line-through
 
+div: width ,height
 
+display : inline, block;
+letter spacing;
+background-image
+background-size: contain,cover,100% 100%
 
-
+box model:
+	margin:spacing outside the content
+	padding: spacing inside the content
+	border: for content border
+border radius
