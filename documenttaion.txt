@@ -87,3 +87,15 @@ box model:
 	padding: spacing inside the content
 	border: for content border
 border radius
+
+float property:
+opacity
+cursor
+
+position:
+	relative: 
+	absolute : 
+	fixed
+z-index
+
+
