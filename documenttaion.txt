@@ -98,4 +98,20 @@ position:
 	fixed
 z-index
 
+display:flex;
+
+justify content- for horitzontal axis-> center,space-around,-space-between,flex-end
+align-item: for vertical axis: center
+
+media query: max-width:<=
+                       min-width:>=
+
+
+
+
+
+
+
+
+
 
