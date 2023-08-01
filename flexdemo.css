@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+div{
+    width:100px;
+    height: 100px;
+}
+.main{
+    display: flex;
+    height:300px;
+    width: 100%;
+    background-color:grey;
+    justify-content:center;
+    align-items:center ;
+}
+.box1{
+    background-color: orange;
+    
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: red;
+}
+.box4{
+    background-color: greenyellow;
+}
