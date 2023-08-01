@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1,.box2,.box3,.box4{
+    width: 200px;
+    height: 200px;
+}
+.box1{
+    background-color: chartreuse;
+}
+.box2{
+    background-color: crimson;
+}
+.box3{
+    background-color: darkgreen;
+}
+.box4{
+    background-color: darkorange;
+}
+
+.main{
+    /* display:flex; */
+    /* width: 1000px; */
+    /* justify-content:center; */
+    /* justify-content:space-between; */
+    /* justify-content:space-around; */
+    /* justify-content:space-evenly; */
+    /* justify-content:flex-end;
+    justify-content: space-between; */
+    background-color:grey;
+    height:600px;
+    
+    /* align-items:flex-end; */
+   
+}
