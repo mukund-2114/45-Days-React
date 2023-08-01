@@ -1,110 +1,98 @@
-frontend : structure and designing of website
-Ex. Html css,bootstrap,Javascript,Tailwind Css, React, Angular, Material UI, Chakra UI,Django
+Website: webpage
 
-backend : functionality or interactive
-Ex: php, python,nodeJs, laravel,java
+frontend:  designing or structure
+Ex. HTML ,Css,Php, Bootstrap, React,Django,Tailwind css
+Material Ui
 
-database: store data for the website
-Ex. MYSQl, firebase, mongodb
+backend:  functionality
+ex. php,python,java, javascript,nodejs
 
-Mysql   :   structured query language
-mongodb:  not structured
+database:  store data
+ex. mysql, oracle, mariadb, mongodb, firebase
 
-Static website vs dynamic website
 
-static: content does not change
-dynamic: can change
-
-html css: can only make static website
-
-HTML (Hypertext Markup Language)
-for website structure
-
+HTML: website structure
+hypertext markup language
 hypertext: text within text
-markup language:  for formatted text
+markup language: formatted text
 
-CSS (Cascading style sheet)
-for styling
+head tag:
+	title, style, script,link
+heading tag: h1-h6
+paragraph :p
+pre tag: preformatted tag
 
-Javascript:
-interaction
-
-HTML
-
-head:
-	title,script,style,link,meta
-
-tag vs element
-element: starting tag - content -closing tag
-heading tag:h1-h6
-paragraph p,
-pre
+by default font-size:16px
 
 block element vs inline element
 
-attribute: written inside starting tag
+block element takes full width
+inline element takes only required space
 
-span: to style a specific part of the text
+tag vs element
+
+<h1>   
+</h1>
+<h2> content </h2>
 
 list types:
-	ordered list:
-	unordered list:
-	descriptive list:
+	ordered list
+	unordered list
+	descriptive list
 
 
-css styling
+attribute: starting tag property
 
-inline:  1
-internal:2  
-external: 3
+images: width height  attribute only applicable for img tag
 
-selector:
-	id (#) unique  1
-	class (.) multiple 2
-	tag (tagname) 3
-	group (tagname, class,id) 4
-	universal (*) 5
+CSS types:
+1	inline: within the opening tags of the element
+2	internal: style tag within the head tag
+3	external: make an external css file and link it
+
+CSS selector
+3	tagname: 
+2	class: multiple styling (.)
+1	id: for unique content (#)
+4	universal : * for every element of the page
+	group: tagname,class,id
 
 
+Css Properties:
+color,background-color,font-size,font-weight
+font-family,text-transform,text-decoration,text-align
 
-github.com/mukund-2114
-
-
-text-properties:
- 	font: Times New Roman
-	tranform:uppercase,lowercase,capitalize
-	decoration: overline,underline,line-through
-
-div: width ,height
-
-display : inline, block;
-letter spacing;
-background-image
-background-size: contain,cover,100% 100%
+display: block inline
 
 box model:
-	margin:spacing outside the content
+	margin: spacing outside the content
 	padding: spacing inside the content
-	border: for content border
-border radius
+	border: 
 
-float property:
-opacity
-cursor
+float property: left,right
 
-position:
-	relative: 
-	absolute : 
-	fixed
-z-index
+position property: static: by default value
+	            relative: parent
+	            absolute: child
+	            fixed;
 
-display:flex;
+	body: top:0; left:0 : relative
+z-index;
 
-justify content- for horitzontal axis-> center,space-around,-space-between,flex-end
-align-item: for vertical axis: center
+display: flex
+	justify-content: for horizontal
+		center,space-around,space-between,space-evenly
+	align-items: for vertical
+		center
 
-media query: max-width:<=
-                       min-width:>=
+
+
+
+
+
+
+
+
 
 
 
