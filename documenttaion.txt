@@ -161,6 +161,31 @@ sm
 4 lg  col-3
 2 md col-6
 1  sm col-12
+Javascript:
+
+client side vs server side
+
+request response
+
+api( application programming interface)
+
+index: javascript 0 indexing
+
+document.write()
+
+getelementby : id,class,tagname
+
+operators
+conditional statements:
+
+
+
+
+
+
+
+
+
 
 
 
