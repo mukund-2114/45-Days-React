@@ -181,16 +181,39 @@ conditional statements:
 
 
 
+for( starting value; condition; increment decrement  ){
+	//code
+}
 
 
+ 1-10
+10-1
 
 
+starting value
+while(condition){
+	
+}
+
+do{
+}while()
+
+prompt
+alert
+
+string methods:
+
+vowels: (a ,e ,i ,o ,u)
+count:6
+
+find count of vowel from the string
+string : replace all even character with * if it is a vowel
 
 
+array:  to store mulitple values of same datatypes
 
-
-
-
+object: to store multiple datatype value
+	key:value.
 
 
 
