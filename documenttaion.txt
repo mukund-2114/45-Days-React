@@ -208,19 +208,45 @@ count:6
 
 find count of vowel from the string
 string : replace all even character with * if it is a vowel
+print reverse of the input string
 
+helloworld	
+d
+l
+r
+dlrowolleh
+
+
+palindrome:
+
+madam
+nitin
+
+yes no
 
 array:  to store mulitple values of same datatypes
 
 object: to store multiple datatype value
 	key:value.
 
+var x = 0;
+var arr1 = [ ];
+
+example arr1 = [x++,x++,--x];   1
+	arr2 = ["x--","x--","--x"]  -3
+
+"x++","x--","++x","--x"
+
+sum of all the number in the array
 
 
+arr2 = [" word1","wor ","llo474"]
 
 
+0-10
 
-
+userinput = 5;
+randomnumber = 8;
 
 
 
