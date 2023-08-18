@@ -1,0 +1,53 @@
+Html css
+
+bootstrap cards
+zomato cards
+navbar using float
+w3school layout using float
+content and image using float
+zomato cards using float
+
+zomato cards using position
+team section using position
+dropdown using position
+multiple dropdown
+
+flex zomato cards
+flex navbar
+
+media query
+
+carousel responsive
+carousel with image and content responsive
+
+
+Javascript:
+
+grade from marks
+odd even
+string reverse
+vowel and consonant
+* on even index
+array element sum
+largest string in array
+guessing game using user input
+calculator
+[x++,++x,x--]
+word reverse in an string
+max words in an array of string
+palindrome
+addition of two array and check
+combine 2 string in even and odd
+check whether first last character are vowels
+check vowels in even string
+parenthesis checker
+
+
+
+
+
+
+
+
+
+
