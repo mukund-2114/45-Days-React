@@ -229,13 +229,7 @@ array:  to store mulitple values of same datatypes
 object: to store multiple datatype value
 	key:value.
 
-var x = 0;
-var arr1 = [ ];
 
-example arr1 = [x++,x++,--x];   1
-	arr2 = ["x--","x--","--x"]  -3
-
-"x++","x--","++x","--x"
 
 sum of all the number in the array
 
@@ -247,6 +241,162 @@ arr2 = [" word1","wor ","llo474"]
 
 userinput = 5;
 randomnumber = 8;
+
+
+var x = 0;
+var arr1 = [ ];
+
+example arr1 = [x++,x++,--x];   1
+	arr2 = ["x--","x--","--x"]  -3
+
+"x++","x--","++x","--x"
+for in loop
+for of loop
+
+
+
+
+
+
+
+arr1=["ab","c","de"]   abc
+arr2= ["abc","d","e"]       abc
+
+
+output :true
+
+
+function functionname(){
+	//code
+}
+
+
+calculator();
+
+string1="how are you";
+you are how;
+
+reverse of the string;
+
+arr1 = ["hello how are you","thank you"," hi there welcome"]
+find the maximum words in the array
+
+
+
+
+
+string1 = "abc" string2="defhi";
+string1< string2
+
+output: adbecfhi;
+
+
+arr1 = ["how", "are","epo,"uip"]
+2
+count = 0
+
+a = "jL" b="aijofjL"
+output: 3
+
+a = "hHp" b="poafHjhh"
+output = 4;
+
+
+
+
+
+ES6
+
+
+var: can be declared multiple times
+	and values can also be changed
+
+let : can be declared only once and values can be changed
+
+const: can be declared only once and values cannot be changed
+
+
+arrow function:
+
+const hi=() =>{
+}
+
+
+array destructing:
+
+spread operator;
+... 
+
+template literals; backtick (` `)
+
+map function: 
+
+a e i o u
+arr1 = ["how", "are","epo,"uip"]
+2
+count = 0
+
+
+word1 = "helo";
+length == even
+
+output:true
+
+
+a = he     b=lo
+
+
+word2 = "woodrldees"
+a = woodr      b = ldees
+
+ReactJs:
+
+framework :bootstrap, angular
+library: reactjs, animate.js
+
+angular reactjs
+
+angular-typescript -you have to define the type
+reactjs - javascript -  
+
+nodejs : 
+security
+
+
+html->javascript
+jsx: javascript->html
+
+
+npm : node package manager
+
+check: node -v
+            npm -v
+
+npx create-react-app projectname
+
+method 2:
+
+npm i create-react-app
+
+create-react-app demo
+
+method 3
+
+npm i -g create-react-app
+create-react-app demo
+cd projectname
+ 
+npm start
+
+changes to be made
+
+close all the tag
+class => className
+form of objects
+
+
+
+
 
 
 
