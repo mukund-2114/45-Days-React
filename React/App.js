@@ -6,6 +6,9 @@ import Footer from './Components/Footer';
 import Home from './Components/Home';
 import Navbar from './Components/Navbar';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
+import Product from './Components/Product';
+import ProductApi from './Components/ProductApi';
+import Crud from './Components/Crud';
 
 function App() {
   return (
@@ -18,7 +21,7 @@ function App() {
       <Card title="card 4" desc="this is card 4"/>
       */}
       {/* <Home username="Mukund" /> */}
-      <BrowserRouter>
+      {/* <BrowserRouter>
       <Navbar login="yes"/>
 
         <Routes>
@@ -28,7 +31,11 @@ function App() {
 
         </Routes>
       </BrowserRouter>
-      <Footer/>
+      <Footer/> */}
+
+      <Product/>
+      {/* <ProductApi/> */}
+      <Crud/>
     </div>
   );
 }
